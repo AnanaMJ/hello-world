@@ -1,5 +1,5 @@
 body {
-  background-color: grey;
+  background-color: #D8D8D8;
   font-family: 'Noto Serif JP', 'MS Gothic', sans-serif;
 }
 
@@ -9,12 +9,17 @@ h1 {
 
 .container {
   /* text-align: center; */
-  color: white;
+  color: #F5F5F0;
   text-shadow: 2px 2px #ff0000;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
   /* width: 100%; */
+}
+
+.text {
+  color: black;
+  text-shadow: none;
 }
 
 /* .center {
