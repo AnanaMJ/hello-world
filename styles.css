@@ -45,3 +45,13 @@ iframe{
   flex-wrap: wrap;
 }
 
+.carousel-inner {
+  /*width:100%;*/
+  align-items: center;
+  /*max-height: 500px !important;*/
+}
+
+/*.carousel-inner .item  img{
+margin:auto;
+width: 100%;
+}*/
