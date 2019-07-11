@@ -9,8 +9,8 @@ h1 {
 
 .container {
   /* text-align: center; */
-  color: lightgray;
-
+  color: white;
+  text-shadow: 2px 2px #ff0000;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
