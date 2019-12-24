@@ -52,7 +52,7 @@ iframe{
 }
 
 .carousel-item {
-  margin: auto;
+  margin: 0 auto;
 }
 
 /*.carousel-inner .item  img{
